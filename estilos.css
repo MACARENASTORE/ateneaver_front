@@ -1,0 +1,20 @@
+.slogan{
+    align-items: center;
+    font-size: 24px;
+}
+@media(max-width:960px){
+
+    .slogan{
+        align-items:center;
+    }
+
+    .slogan h3{
+        text-align: center;
+    }
+
+    body{
+
+        background-color: aqua;
+    }
+
+}
